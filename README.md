@@ -12,7 +12,7 @@ Then, press 'Add Existing', and select the file SYS_27.kicad_sym wherever you pu
 
 For the footprint library, open the PCB editor, navigate to Preferences -> Manage Footprint Libraries, then press 'Add Existing' and open SYS_27_Footprints.pretty, as you did for the previous file:
 <p align="center">
-img width="1011" height="696" alt="image" src="https://github.com/user-attachments/assets/81498bd1-fb98-4597-bb89-56e55fe0c47d" />
+<img width="1011" height="696" alt="image" src="https://github.com/user-attachments/assets/81498bd1-fb98-4597-bb89-56e55fe0c47d" />
 </p>
 
 This will import the symbol and footprint libraries into your project; they'll now be ready to use in your schematic and PCB.
