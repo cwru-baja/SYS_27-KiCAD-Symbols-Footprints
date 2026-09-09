@@ -1,6 +1,7 @@
 This is a repository containing all symbols and footprints necessary for the 2027 systems intro project.
 
 To use this library, first clone or download the repo, then place the file SYS_27.kicad_sym and the folder SYS_27_Footprints.pretty into a folder of your choice. Then, in your project,go to the schematic and navigate to Preferences -> Manage Symbol Libraries: 
+
 <img width="333" height="176" alt="image" src="https://github.com/user-attachments/assets/593cf10f-ee82-4b61-ab12-3346756fe3f0" />
 
 Then, press 'Add Existing', and select the file SYS_27.kicad_sym wherever you put it:
